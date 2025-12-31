@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/a87dc209-0166-4898-925a-ba9c7bf4acb4
 # ComSci-AI-mentor
 ComSci is an AI Mentor built for the Google Cloud x ElevenLabs Hackathon. It uses Gemini 2.5 Flash for reasoning and ElevenLabs Conversational AI for life-like voice interaction. The goal is to help CS students understand complex topics through simple analogies
 
@@ -14,3 +16,6 @@ Ask questions like these to test ComSci at its best:
 "Hey ComSci, what is a Python 'List' and why do I need one?"
 "Can you give me an analogy for a 'Class' in OOP?"
 "Thanks for the help, goodbye!" (To test the hang-up tool).
+
+Video link:  Uploading Untitled design.mp4…
+
