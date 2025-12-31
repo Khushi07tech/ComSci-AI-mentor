@@ -5,7 +5,7 @@ ComSci is an AI Mentor built for the Google Cloud x ElevenLabs Hackathon. It use
 
 Tech Stack:
 Brain: Google Gemini 2.5 Flash (via ElevenLabs integration).
-Voice: ElevenLabs Conversational AI (Voice: [Name of the voice you picked]).
+Voice: ElevenLabs Conversational AI (Voice: Hope).
 Logic: Multistate Workflow with 3 specialized Subagents (Welcome, Tutor, Outro).
 
 Agent: https://elevenlabs.io/app/talk-to?agent_id=agent_8101kdt10nxzfaaagngxjeacr1yj&branch_id=agtbrch_5301kdt10pq9f4hsvacy7dadwgvv
